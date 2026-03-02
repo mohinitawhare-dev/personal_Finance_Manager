@@ -88,8 +88,6 @@ http://localhost:3000
 
 ## 🚀 Future Enhancements
 
-- User Login & Signup
-- Dashboard with Charts
 - Monthly Reports
 - Export Data (PDF/Excel)
 - Cloud Deployment
